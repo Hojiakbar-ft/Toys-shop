@@ -1,0 +1,186 @@
+* {
+    text-decoration: none;
+}
+
+header{
+    background-color: #ffffff;
+}
+main{
+    background-color: #dee6f4;
+}
+body{
+    font-family: "Montserrat Alternates";
+}
+
+.container {
+    margin: auto;
+    padding: 10px;
+    width: 1024px; 
+}
+
+.top {
+   display: flex;
+   justify-content: space-between;
+   text-align: flex-end;
+}
+
+.top-text {
+    font-weight: 800;
+    font-size: 24px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #ffca33;
+    margin: 0px;
+}
+
+.text-2 {
+    color: #041a3f;
+}
+
+.top-number {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #041a3f;
+}
+
+.banner {
+    display: flex;
+    margin-top: 112px;
+}
+
+.banner-desc {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 140%;
+    color: #ffca33;
+}
+
+.banner-text {
+    color: #041a3f;
+}
+
+.banner-btn {
+    border-radius: 4px;
+    width: 258px;
+    height: 48px;
+    background-color: #ffca33;
+    border: #ffca33;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+}
+
+.cards-one {
+    margin: 100px 11px 16px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards-two {
+    margin: 10px 11px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards-three {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin: 10px 11px;
+    padding-bottom: 128px;
+}
+
+.cards-title {
+    padding-top: 54px;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 140%;
+    text-align: center;
+    color: #041a3f;    
+}
+
+.costume{
+    background-color: #FAFAFA;
+    border-radius: 20px;
+    max-width: 321px;
+    max-height: 642px;
+}
+
+.costume-comment {
+    padding: 32px 16px;
+    max-width: 286px;
+}
+
+.costume-title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #041a3f;
+}
+
+.costume-desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: rgba(4, 26, 63, 0.6);
+}
+
+.costume-price {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    color: #041a3f;
+}
+
+.costume-btn {
+    border: none;
+    align-items: center;
+    width: 254px;
+    height: 48px;   
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    background: #ffca33;
+    border-radius: 4px;
+    margin-left: 16px;
+}
+
+.costume-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: rgba(4, 26, 63, 0.6);
+    padding-bottom: 32px;
+}
+
+.bottom {
+    height: 93px;
+    display: flex;
+    justify-content: space-between;
+    text-align: flex-end;
+}
+ 
+.bottom-text {
+    font-weight: 800;
+    font-size: 24px;
+    text-transform: capitalize;
+    text-align: center;
+    color: #ffca33;
+    margin: 0px;
+}
+
+.bottom-number {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 140%;
+    text-align: center;
+    color: #041a3f;
+}
